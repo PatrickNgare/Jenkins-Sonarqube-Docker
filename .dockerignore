@@ -3,3 +3,4 @@
 config.json
 database.yml
 api_keys.txt
+.env
